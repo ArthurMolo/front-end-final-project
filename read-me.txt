@@ -1,0 +1,4 @@
+This is my final practical project for skill demonstration in HTML/CSS.
+
+For uploading icons the personal Font Awesome script code was used (provided by Font Awesome) in the head of the project.
+If there is problem with uploading icons please enter your personal script code (lines 15-18) provided by Font Awesome.
